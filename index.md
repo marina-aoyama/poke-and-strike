@@ -41,7 +41,7 @@ Conference on Robot Learning (CoRL) 2025
 
   <a href="https://arxiv.org/pdf/2509.00178" class="my-button">
     <span class="icon"><i class="fas fa-file-alt"></i></span>
-    <span>ArXiv</span>
+    <span>arXiv</span>
   </a>
   
   <a href="https://www.youtube.com/watch?v=tvM0A5WxVfM&t=1s" class="my-button">
