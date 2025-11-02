@@ -55,10 +55,22 @@ Conference on Robot Learning (CoRL) 2025
   </a>
 </div>
 
-<video width="800" height="450" controls loop autoplay playsinline webkit-playsinline style="margin-top: 2rem;">
+<!-- <video width="800" height="450" controls loop autoplay playsinline webkit-playsinline style="margin-top: 2rem;">
   <source src="videos/sliding_corl_myvoice_3min_staticqr.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
+
+<div style="margin-top: 2rem;">
+  <iframe 
+    width="800" 
+    height="450" 
+    src="https://www.youtube.com/watch?v=tvM0A5WxVfM" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen
+  ></iframe>
+</div>
 
 <h2>Abstract</h2>
 <div style="text-align: justify;">
