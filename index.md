@@ -16,13 +16,30 @@ title: "Poke and Strike: Learning Task-Informed Exploration Policies"
 
 Conference on Robot Learning (CoRL) 2025 
 
-<div class="button-container">
+<!-- <div class="button-container">
   <a href="#" class="my-button disabled">
     <span class="icon"><i class="fas fa-file-alt"></i></span>
     <span>Paper</span>
   </a>
   
   <a href="#" class="my-button disabled">
+    <span class="icon"><i class="fas fa-video"></i></span>
+    <span>Video</span>
+  </a>
+  
+  <a href="#" class="my-button disabled">
+    <span class="icon"><i class="fab fa-github"></i></span>
+    <span>Code</span>
+  </a>
+</div> -->
+
+<div class="button-container">
+  <a href="https://openreview.net/forum?id=SUqMCzslNH#discussion" class="my-button">
+    <span class="icon"><i class="fas fa-file-alt"></i></span>
+    <span>Paper</span>
+  </a>
+  
+  <a href="https://www.youtube.com/watch?v=tvM0A5WxVfM&t=1s" class="my-button">
     <span class="icon"><i class="fas fa-video"></i></span>
     <span>Video</span>
   </a>
